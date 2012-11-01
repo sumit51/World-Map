@@ -1,0 +1,113 @@
+
+<world>
+<state> 
+    
+	<Name>australia</Name>
+	<desc>capital:Canberra</desc>
+	<desc1>Tourist places:sydyey,perth,gold coast,great ocean coast,fraser island</desc1>
+</state>
+
+
+<state >
+	<Name>india</Name>
+	<desc>capital:New Delhi</desc>
+	<desc1>Tourist places:Taj mahal,kashmir,goa,jaipur,mumbai,kerala,punjab </desc1>
+</state>
+
+<state>
+	<Name>canada</Name>
+	<desc>capital:ottawa</desc>
+	<desc1>Tourist places:Mont royal park,canada wonderland,vieux port–montrel,stanley park,nigarro falls–ontraio</desc1>
+</state>
+
+<state>
+	<Name>china</Name>
+	<desc>capital:Beijing</desc>
+	<desc1>Tourist places:Shanghai,Guilin,Xian,Jiuzhaigou Sichuan,Lhasa Tibet,Silk Road in China</desc1>
+</state>
+
+<state>
+	<Name>argentina</Name>
+	<desc>capital:Buenos Aires</desc>
+	<desc1>Tourist places:Ibera Wetlands,Iguazu Falls,Perito Moreno Glacier,Bariloche,La Boca,Valdes Peninsula</desc1>
+</state>
+
+<state>
+	<Name>greenland</Name>
+	<desc>capital:Nuuk</desc>
+	<desc1>Tourist places:Narsarsuaq,Midnight Hiking to Sermermiut,Ilulissat,Hotel Arctic,Disko Bay,Narsaq,Nuuk</desc1>
+</state>
+<state >
+	<Name>southafrica</Name>
+	<desc>capital:Cape Town</desc>
+	<desc1>Tourist places:Cape Town & Cape Peninsula,Johannesburg,Garden Route,Wild Coast,Soweto,Durban beachfront</desc1>
+</state>
+<state>
+	<Name>libya</Name>
+	<desc>capital:Tripoli</desc>
+	<desc1>Tourist places:Sahara Desert,Sabratha City,Tripoli City,Tadrart Acacus,Red Castle Museum</desc1>
+</state>
+<state>
+	<Name>spain</Name>
+	<desc>capital:Madrid</desc>
+	<desc1>Tourist places:Palacio Real,La Concha,Aqueduct of Segovia,Cuenca,Ibiza,El Escorial</desc1>
+</state>
+<state >
+	<Name>iran</Name>
+	<desc>capital:Tehran</desc>
+	<desc1>Tourist places:YARZALEH MOSQUE ,QAZVIN ,ZEYARATGAH </desc1>
+</state>
+<state >
+	<Name>kenya</Name>
+	<desc>capital:Nairobi</desc>
+	<desc1>Tourist places: Nairobi Kenya,Kisumu,Mombasa,Eldoret,Nyeri,Kericho</desc1>
+</state>
+<state >
+	<Name>afganisthan</Name>
+	<desc>capital:Kabul</desc>
+	<desc1>Tourist places:Kabul Museum,Tora Bora,Minaret of Jam,Khyber Pass</desc1>
+</state>
+<state >
+	<Name>swedan</Name>
+	<desc>capital:Stockholm</desc>
+	<desc1>Tourist places: Falun,Gothenburg,Helsingborg, Kalmar,Karlstad,Stockholm</desc1>
+</state>
+<state>
+	<Name>iceland</Name>
+	<desc>capital:Reykjavik</desc>
+	<desc1>Tourist places:Selfoss,Akureyri,Husavik,Hofn,Borgarnes,Myvatn</desc1>
+</state>
+<state >
+	<Name>brazil</Name>
+	<desc>capital:Brasília</desc>
+	<desc1>Tourist places: Ouro Preto,Teatro Amazonas,Fernando de Noronha,Historic Center of Olinda,Salvador Beaches</desc1>
+</state>
+<state >
+	<Name>mexico</Name>
+	<desc>capital:Mexico City</desc>
+	<desc1>Tourist places: Acapulco,Guanajuato,Dias des los Muertos, Oaxaca,Cozumel,Los Cabos,Palenque</desc1>
+</state>
+<state>
+	<Name>japan</Name>
+	<desc>capital:Tokyo</desc>
+	<desc1>Tourist places: Fukuoka,Hiroshima,Kanazawa, Kurashiki,Kyoto,Matsue,Matsushima Bay</desc1>
+</state>	
+<state>
+	<Name>kazasthan</Name>
+	<desc>capital:Astana</desc>
+	<desc1>Tourist places: Zenkov Cathedral,Akimat House,Tamgaly Gorge,Medeu & Shymbulaq,</desc1>
+</state>	
+<state >
+	<Name>finland</Name>
+	<desc>capital:Helsinki</desc>
+	<desc1>Tourist places: The Fortress of Suomenlinna,Old Rauma,St. Olafs Castle, Savonlinna ,Petajavesi Old Church </desc1>
+</state>	
+<state >
+	<Name>portugal</Name>
+	<desc>capital:Lisbon</desc>
+	<desc1>Tourist places:Jeronimos Monastery,Tomar's Templar Castle and Convent,PORTO   </desc1>
+	
+</state>
+</world>	
+
+    
